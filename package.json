@@ -1,7 +1,7 @@
 {
   "name": "feathers-sync",
   "description": "Feathers",
-  "version": "0.10001.2",
+  "version": "0.10001.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/feathersjs-ecosystem/feathers-sync.git"
